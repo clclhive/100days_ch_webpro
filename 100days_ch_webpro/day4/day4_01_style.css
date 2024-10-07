@@ -1,10 +1,10 @@
 h1 {
-    font-family: sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
     color: rgb(255, 0, 0);
 }
 p {
-    font-family: sans-serif;
+    font-family: 'Fira sans', sans-serif;
     text-align: center;
     color: rgb(91, 59, 59);
 }
